@@ -1,16 +1,19 @@
-## Hi there 👋
+_Art made with technology. Technology made with art._
 
-<!--
-**Framebuffers/framebuffers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🇨🇱 🏳️‍🌈 | 27
 
-Here are some ideas to get you started:
+# me
+- 🎨 Artist
+- 🎮 Game developer. [Check my itch.io for releases](https://framebuffers.itch.io).
+- 🖥️ Makes computer go brr (usually in C# Godot, .NET, Go, or any combination).
+- 🏛️ Architect (of buildings, not practicing).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## projects
+🔭 Currently working on:
+- **Premonition: Director's Edition**: A remake of Premonition, a game made in seven days for Brackey's 2024.2 Game Jam.
+- **Two Tribes**: A game about contrasts.
+- A lot of **custom tooling for Godot .NET.**
+- Some **basic endpoint experiments** in Go.
+
+## contact
+📫 [Links for all social media](https://framebuffer.xyz/links), or in Discord as `Framebuffer`.
