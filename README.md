@@ -1,5 +1,4 @@
-_Art made with technology. Technology made with art._
-
+Computer Sorcerer + Architect
 🇨🇱 🏳️‍🌈 | 27
 
 # me
@@ -14,4 +13,4 @@ _Art made with technology. Technology made with art._
 - 🕹️ occasional work on game engine development (for Godot .NET)
 
 ## contact
-📫 Discord as `Framebuffer`.
+📨 hello(at)framebuffer(dot)xyz
