@@ -1,16 +1,17 @@
-Computer Sorcerer + Architect
-🇨🇱 🏳️‍🌈 | 27
+🏗️ Architect + Developer | 🇨🇱 🏳️‍🌈 | 27
+_💼 open to work!_
 
-# me
-- 🎨 Artist
-- 🎮 Game developer
-- 🖥️ Makes computer go brr (usually in C# Godot, .NET, Go, or any combination)
-- 🏛️ Architect (of buildings)
+# interests
+BIM, data (analysis and structures), retro tech, game development, illustration+music, aviation
+
+# tech
+🖥️ C# .NET, Python
+💾 SQL, Docker
+⚙️ Revit API, ACC
 
 ## projects
 🔭 Currently working on:
 - 🐺 Direwolf: a data scraper and analysis tool for Autodesk Revit.
-- 🕹️ occasional work on game engine development (for Godot .NET)
 
 ## contact
-📨 hello(at)framebuffer(dot)xyz
+📨 hello(at)framebuffer(dot)cl
