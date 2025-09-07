@@ -1,21 +1,21 @@
-🏗️ Architect + Developer | 🇨🇱 🏳️‍🌈 | 27
+🏗️ Architect + Developer | 🇨🇱 🏳️‍🌈 | 28
 
 _💼 open to work!_
 
 # interests
-BIM, data (analysis and structures), retro tech, game development, illustration+music, aviation
+BIM, data (analysis, engineering, architecture), retro tech, game development, illustration+music, aviation.
 
 
 # tech
-🖥️ C# .NET, Python
-💾 SQL, Docker
-⚙️ Revit API, ACC
+🖥️ C# .NET, Python (pandas, numpy, selenium, beautifulsoup), (learning) Node/TS
+💾 PostgreSQL, Docker (Compose), 
+⚙️ MCP/LLM backend, JSON-RPC, API design, systems architecture design, Revit API, ACC, distributed systems.
 
 
 ## projects
 🔭 Currently working on:
-- 🐺 Direwolf: a data scraper and analysis tool for Autodesk Revit.
+- 🐺 Direwolf: a distributed data processing pipeline for MCP. The whole pipeline for 
 
 
 ## contact
-📨 hello(at)framebuffer(dot)cl
+🦋 @ [DM me in bsky](https://bsky.app/profile/framebuffer.cl)
