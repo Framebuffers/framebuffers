@@ -19,7 +19,8 @@ BIM, data (analysis, engineering, architecture), retro tech, game development, i
 ## projects
 
 🔭 Currently working on:
-- 🐺 Direwolf: a distributed data processing pipeline for MCP. The whole pipeline for 
+- 🐺 Direwolf: a distributed data processing pipeline for MCP. The whole pipeline for
+- 🐯 Mindhunter: wrapper for pandas DataFrames, adding statistical analysis tools.
 
 
 ## contact
